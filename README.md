@@ -3,9 +3,7 @@
 </div>
 
 <h1 align="center">🌎 co323co's GitHub 🌎</h1>
-<div>- 🔭 현재 삼성 청년 SW 아카데미에서 공부하고 있습니다. </div>
-<div>- 🌱 요즘 공부하는 것들은 알고리즘 & 웹 입니다. </div>
-
+<div>- 🔭 현재 STOVE DEV CAMP 진행 중입니다 </div>
 
 <h3>💯 Languages and Tools I've studied 💯</h3>
 
