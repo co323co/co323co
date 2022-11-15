@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">🌎 co323co's GitHub 🌎</h1>
-<div>- 🔭 현재 STOVE DEV CAMP 진행 중입니다 </div>
+<div>- 🔭 현재 Smilegate Stove 근무 중입니다 </div>
 
 <h3>💯 Languages and Tools I've studied 💯</h3>
 
